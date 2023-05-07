@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="title_find">Search</string>
+    <string name="title_trending">Trend</string>
+    <string name="title_popular">Popular</string>
+    <string name="title_child">For Kids</string>
+
+    <string name="operational_error_message">Apparently an error has occurred while performing the operation</string>
+    <string name="connection_error">Something is wrong with your connection, check it!</string>
+    <string name="empty_error">There seems to be nothing to show.</string>
+
+    <string name="oops">Ooopss!!</string>
+    <string name="retry">Retry</string>
+    <string name="lorem">It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. Unless they are blinded by lust, they do not come out; they are in fault who abandon their duties and soften their hearts, that is toil.</string>
+    <string name="actor_title">Actors</string>
+    <string name="tagline">Famous phrase</string>
+    <string name="description_title">Description</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="visible_title">Visible</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="menu_title">menu options </string>
+    <string name="search">Searching...</string>
+    <string name="title_filter">filter</string>
+    <string name="search_hint">Search...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_setting">Preferences</string>
+    <string name="ooops_something_went_wrong">Ooops!!, Something went wrong</string>
+</resources>
